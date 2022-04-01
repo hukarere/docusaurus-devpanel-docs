@@ -33,6 +33,8 @@ spec:
             value: '0.0.0.0'
           - name: NGINX_SET_REAL_IP_FROM
             value: "10.0.0.0/16"
+          - name: NGINX_INDEX_FILE
+            value: index.html
         ports:
           - containerPort: 80
             name: http

@@ -7,7 +7,7 @@ DevPanel first links to your AWS account and creates infrastructure there that i
 
 Then, DevPanel deploys applications in that infrastructure using code from your repos.
 
-![2021-02-25_11-32-38_basics.png](/img/devpanel/about/2021-02-25_11-32-38_basics.png)
+![2021-02-25_11-32-38_basics.png](img/devpanel/about/2021-02-25_11-32-38_basics.png)
 
 ## Create unlimited Dev, Test, Live branches
 
